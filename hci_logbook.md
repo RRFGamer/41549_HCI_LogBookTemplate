@@ -9,7 +9,7 @@ Work carried out by:
 **Title of the project**: [Title goes here]
 **Team:**
 - Student 1: João Su Nª112790 
-- Student 2; [Name and Number]
+- Student 2; Rúben Franco Nª114827
 - Student 3: [Name and Number]
 
 ---
