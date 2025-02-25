@@ -7,13 +7,20 @@
 >	Here you will briefly explain the domain of the problem you identified, briefly identify general challenges and, then, state you problem
 
 # Context
-[What is the context for your work. What area of application. It can be travelling, pet treatment, shopping. State the overall context and why it is interesting to think about it.]
+
+Many existing note-taking apps provide a one-size-fits-all approach, often lacking flexibility to create different types of notes, such as recipes, task lists, or quick thoughts. This project explores a different approach by developing a note-taking web application that offers a variety of note types tailored to users' needs. 
 
 # Challenges
-[What are aspects that remain a challenge? What is difficult to do? What could profit from a more customizable approach?]
+
+<ul>
+  <li>Some users avoid note-taking because they find existing apps too complex or unnecessary for their workflow.</li>
+  <li>It is difficult to determine what types of notes users actually need, as some are satisfied with traditional one-size-fits-all note-taking apps.</li>
+  <li>If a note-taking app offers multiple types of notes, it may become too diverse, potentially overwhelming users instead of improving their experience.</li>
+</ul> 
+
 
 # The goal
-[In a short sentence state what is the problem you wish to address]
 
+To design a simple, user-friendly note-taking web app that allows users to create and manage different types of notes efficiently while focusing on usability and accessibility.
 
 [Back to main Logbook Page](hci_logbook.md)
