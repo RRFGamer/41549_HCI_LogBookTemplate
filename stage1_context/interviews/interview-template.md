@@ -9,46 +9,62 @@
 - **Context:** [Where and how the interview was conducted] 
 
 --- 
-## Task Overview 
 
- **What task is the user trying to accomplish?** 
-[Describe the task in the user’s words] 
+## Direct Questions
 
-**What are the main pain points or difficulties they experience?** 
-- [Challenge 1] 
-- [Challenge 2] 
-- [Challenge 3] 
+ **Do you take notes?**
+[If yes, go (here)[#if-takes-notes]]
+[It no, go (here)[#if-does-not-take-notes]]
 
-**Are there any workarounds or strategies they currently use?** 
-- [List of workarounds] 
+ **With what frequency do you take notes?**
+[One of daily, weekly, monthly, etc...]
 
----- 
-## Tools & Environment 
-**What tools or methods does the user currently rely on?** 
-- [Tool 1] 
-- [Tool 2] 
-- [Any manual processes] 
+ **What kind of notes do you usually take?**
+[What categories do the notes fit in: work, study, recepies, keeping ideas for later, etc...]
 
-**Are there any frustrations or limitations with these tools?** 
-- [Limitation 1] 
-- [Limitation 2] 
+ **What do you use to take notes?**
+[This includes legacy media (like paper notebooks or notepads) and computer or smartphone apps]
+[If user uses an app, which one? (Notion, Google Keep, Evernote, Onenote, etc...)]
 
-**What features do they wish these tools had?** 
-- [Feature 1] 
-- [Feature 2] 
---- 
-## Expectations for a Novel Approach 
+## If takes notes
 
-**What would an ideal solution look like for them?** 
-- [Key expectations] 
+ **Why do you not take notes?**
+[Is it not important, not necessary, bad expreiences...]
 
-**What concerns or hesitations do they have about new approaches?** 
-- [Concern 1] 
-- [Concern 2] 
+ **Have you forgotten something because you didn't annotate it?**
 
-**How do they measure success for completing the task efficiently?** 
-- [Efficiency metric or criteria] 
+ **Have you used any note taking app in the past? If so, which one, and why did you stop?**
+- [App 1]
+  - [Reason 1]
+  - [Reason 2]
+- [App 1]
 
---- 
-## Additional Observations 
-[Free space for any other relevant notes, behaviors, or comments]
+ **Would you consider using an app if it had a specific feature or solved a specific problem?**
+[Problem or feature(s)]
+
+## If does not take notes
+
+### If takes notes on paper
+
+ **Have you tried any note taking app in the past?**
+[Name of the app]
+
+### If uses a digital app
+
+ **Why did you start using your current note taking app?**
+[Name of the app]
+- [Reason 1]
+- [Reason 2]
+
+ **If you could, would you add a new feature to the app or change an already existing feature?**
+[Description of missing feature or of changes to feature]
+
+ **Would there be benefits to having different categories of notes in the same app?**
+
+ **Is there a feature not present in your app that would make you switch?**
+[Description of the feature if yes.]
+
+ **Have you ever stopped using another note taking app, and why?**
+- [App 1]
+  - [Reason 1]
+  - [Reason 2]
