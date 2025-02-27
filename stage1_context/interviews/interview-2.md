@@ -6,45 +6,42 @@
 - **Date:** [2024-02-26] 
 - **Interviewer:** [João Su] 
 - **Participant:** Student
-- **Context:** IT 
+- **Context:** IT
 
 --- 
 
 ## Direct Questions
 
  **Do you take notes?**
-Yes. With time takes notes.
-Specifically while reading articles.
-Never takes live notes (for example, in class) as it's a distraction.
+Yes. 
 
  **With what frequency do you take notes?**
-Weekly.
+Daily.
 
  **What kind of notes do you usually take?**
-Work and study notes.
+Work, study, ideas notes.
 
  **What do you use to take notes?**
 - Phone: Default
-- PC: Notion, Text editor
+- PC: Default
+- Paper
 
 
  **Why did you start using your current note taking app?**
-Notion
-- It's a "complete" program;
-- Likes the interface;
-
 Default apps
-- They are very simple and convenient.
+- They are very simple and very easy to use.
 
  **If you could, would you add a new feature to the app or change an already existing feature?**
-No.
+
+Be shareable, styles, arrows, bullet points, but maintaining simple.
 
  **Would there be benefits to having different categories of notes in the same app?**
 Yes.
 
- **Is there a feature not present in your app that would make you switch?**
-No.
+
+ **Have you ever stopped using another note taking app, and why?**
+Yes, notion it was very overwhelming.
 
 ---
 ## Additional observations
-When the user started using Notion, it's seemed very complicated.
+Likes note-taking apps that are very simple and easy to use. Open and write. 
