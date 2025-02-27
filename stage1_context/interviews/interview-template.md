@@ -26,7 +26,7 @@
 [This includes legacy media (like paper notebooks or notepads) and computer or smartphone apps]
 [If user uses an app, which one? (Notion, Google Keep, Evernote, Onenote, etc...)]
 
-## If takes notes
+## If does not take notes
 
  **Why do you not take notes?**
 [Is it not important, not necessary, bad expreiences...]
@@ -42,7 +42,7 @@
  **Would you consider using an app if it had a specific feature or solved a specific problem?**
 [Problem or feature(s)]
 
-## If does not take notes
+## If takes notes
 
 ---
 
