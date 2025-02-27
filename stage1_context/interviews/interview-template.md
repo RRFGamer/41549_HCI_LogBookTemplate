@@ -44,6 +44,8 @@
 
 ## If does not take notes
 
+---
+
 ### If takes notes on paper
 
  **Have you tried any note taking app in the past?**
@@ -55,6 +57,8 @@
 [Name of the app]
 - [Reason 1]
 - [Reason 2]
+
+---
 
  **If you could, would you add a new feature to the app or change an already existing feature?**
 [Description of missing feature or of changes to feature]
