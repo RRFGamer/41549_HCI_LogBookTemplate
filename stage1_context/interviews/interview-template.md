@@ -13,8 +13,8 @@
 ## Direct Questions
 
  **Do you take notes?**
-[If yes, go (here)[#if-takes-notes]]
-[It no, go (here)[#if-does-not-take-notes]]
+[If yes, go [here](#if-takes-notes)]
+[It no, go [here](#if-does-not-take-notes)]
 
  **With what frequency do you take notes?**
 [One of daily, weekly, monthly, etc...]
