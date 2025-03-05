@@ -36,11 +36,11 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Can users easily cancel an action? 
 >	- Is Undo and Redo supported?
 
-| **Issue**                                                                                                                    | **Severity** | Recommendation                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------- |
-| Deleting notes from Trash requires a second confirmation.                                                                    | 0            | N/A                                                                                         |
-| Moving notes to trash pops a brief, small notification with undo button on the bottom left of the screen.                    | 2            | Move the notification to a more used area or replace note with notification itself briefly. |
-| A new note can't be "cancelled". The only way to cancel a new note is to clear ALL text, including title, and then close it. | 3            | Add a new button to cancel note.                                                            |
+| **Issue**                                                                                                                    | **Severity** | Recommendation                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------- |
+| Deleting notes from Trash requires a second confirmation.                                                                    | 0            | N/A                                                                                             |
+| Moving notes to trash pops a brief, small notification with undo button on the bottom left of the screen.                    | 2            | Move the notification to a commonly used area or replace note with notification itself briefly. |
+| A new note can't be "cancelled". The only way to cancel a new note is to clear ALL text, including title, and then close it. | 3            | Add a new button to cancel note.                                                                |
 
 # 4 Consistency and Standards
 >	Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions. 
