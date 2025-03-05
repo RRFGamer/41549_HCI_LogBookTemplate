@@ -107,8 +107,8 @@ Task: [This is the task]
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
 
 ### Interview List 
-| Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
-| ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
+| Date       | Participant / Role | Key Insights                                                    | Link to Notes                |
+| ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- |
 
 ### Common Themes & Patterns 
 
