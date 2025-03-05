@@ -107,8 +107,9 @@ Task: [This is the task]
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
 
 ### Interview List 
-| Date       | Participant / Role | Key Insights                                                    | Link to Notes                |
-| ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- |
+| Date       | Participant / Role                                 | Key Insights                                                                                                                                                           | Link to Notes                              |
+| ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 2025-02-27 | Rafael Claro/University Student with part time job | Two categories of notes. Paper notepad used in part time. Sticky notes software used to aid University project. Would like deeper integration of sticky note software. | [📄 Notes](interviews/interview-Rafael.md) |
 
 ### Common Themes & Patterns 
 
