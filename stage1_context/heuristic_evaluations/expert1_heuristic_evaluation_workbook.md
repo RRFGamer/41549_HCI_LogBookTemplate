@@ -86,7 +86,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| The note interface can feel visually overwhelming when many notes are displayed, especially without clear separation or organization. | 3            | Provide more layout customization options, such as collapsible sections or different note view styles.               |
+| The note interface can feel visually overwhelming when many notes are displayed, especially without clear separation or organization. | 3            | Provide more layout customization options, such as different note view styles.               |
+The collapsible view style takes up too much space. | 1 | Make the collapsible smaller
+
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
 >	- Does the design use traditional error message visuals, like bold, red text? 
@@ -104,5 +106,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-|Help documentation is not directly accessible from the app interface, requiring users to search for it online. | 2            | 	Add a visible "Help" or "Support" section within the app for quick access to documentation.               |
+|  |             |                |
+|   |             |                |
 
