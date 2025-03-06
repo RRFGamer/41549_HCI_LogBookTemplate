@@ -18,7 +18,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                                                    | **Severity** | Recommendation |
 | ------------------------------------------------------------ | ------------ | -------------- |
-| ------------------------------------------------------------ | ------------ | -------------- |
 
 # 2 Match Between System and The Real World
 >	The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. 
@@ -27,7 +26,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| --------------- | ------------ | -------------- |
+
 
 # 3 User Control and Freedom
 >	Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process. 
@@ -40,10 +39,8 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | ---------------------------------------- | ------------ | ----------------------------------- |
 | Ao salvar a nota sem intenção,           |  1           | Adicionar uma opção para retroceder |
 | não é possível voltar atrás              |              |                                     |
-| ---------------------------------------- | ------------ | ----------------------------------- |
 | Ao apagar uma nota a mensagem é pequena, |  1           | Aumentar o tamanho da fonte         |
 | dificultando a leitura                   |              |                                     |
-| ---------------------------------------- | ------------ | ----------------------------------- |
 
 # 4 Consistency and Standards
 >	Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions. 
@@ -52,7 +49,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| _______________ | ____________ | ______________ |
 
 # 5 Error Prevention
 >	Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action. 
@@ -63,7 +59,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | --------------------------------- | ------------ | ------------------------------ |
 | Ao apagar várias notas, não é     |  2           |  Surgir uma mensagem de aviso  |
 | exibido nenhuma mensagem de aviso |              |  para alterações de maior gama |
-| --------------------------------- | ------------ | ------------------------------ |
 
 # 6 Recognition Rather than Recall
 >	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
@@ -71,7 +66,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design offer help in-context?
 
 | **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
 | --------------- | ------------ | -------------- |
 
 # 7 Flexibility and Efficiency of Use
@@ -83,16 +77,12 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | --------------------------------- | ------------ | ---------------------------------- |
 | Apenas é permitido texto simples, |  1           | Acrescentar o mínimo de opções     |
 | sem opções de formatação          |              | de formatação                      |
-| --------------------------------- | ------------ | ---------------------------------- |
 | Apenas imagens podem ser anexadas |  1           | Permitir a anexação de outros      |
 | nas notas                         |              | formatos de fiqueiro               |
-| --------------------------------- | ------------ | ---------------------------------- |
 | Carece de opções para organizar   |  2           | Adicionar outras opções como       |
 | as notas tiradas                  |              | organizar em cadernos              |
-| --------------------------------- | ------------ | ---------------------------------- |
 | Web Clipper (addon) do Google     |  2           | Permitir tirar print screen ou     |
 | Keep apenas armazena a URL        |              | guardar pequenas parcelas de texto |
-| --------------------------------- | ------------ | ---------------------------------- |
 
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
@@ -101,7 +91,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| --------------- | ------------ | -------------- |
 
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
@@ -109,7 +98,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design offer a solution that solves the error immediately?
 
 | **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
 | --------------- | ------------ | -------------- |
 
 # 10 Help and Documentation
@@ -120,4 +108,3 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**                         | **Severity** | Recommendation                       |
 | --------------------------------- | ------------ | ------------------------------------ |
 | A opção de ajuda não está visível |  3           | Deixar ela visível no menu principal |
-| --------------------------------- | ------------ | ------------------------------------ |
