@@ -1,10 +1,10 @@
-# Competitor Analysis: [System Name] 
+# Competitor Analysis: Google Keep
 ## General Information 
-- **Name of System:** [System Name] 
-- **Company/Developer:** [Company Name] 
-- **Website/Product Page:** [URL] 
-- **Version/Release Date:** [If applicable] 
-- **Platform(s) Supported:** [e.g., Web, Mobile (iOS/Android), Desktop] 
+- **Name of System:** Google Keep 
+- **Company/Developer:** Google 
+- **Website/Product Page:** https://keep.google.com 
+- **Version/Release Date:** 
+- **Platform(s) Supported:** Web, desktop, mobile (android and iOS)  
 - **Target Audience:** [Who is this designed for?] 
 
 --- 

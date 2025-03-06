@@ -14,9 +14,9 @@
 
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
-| ...               |                                             |                                     |
+| Notion| A very flexible and customizable note-taking with project management features, templates, tags ...| [Competitor Analysis Notion](competitors/Competitor_Analysis_Notion.md)| 
+| Microsoft OneNote |A digital notebook with freeform note organization, handwriting support, section-based structuring and office type stylization.|[Competitor Analysis Microsoft OneNote](competitors/Competitor_Analysis_Notion.md)|
+| Google Keep| A simple note-taking app with color notes, reminders, checklist image annotation.| [Competitor Analysis Google Keep](competitors/Competitor_Analysis_Google_Keep.md)|
 
 
 
@@ -28,7 +28,17 @@
 ### - Heuristic Evaluation
 
 #### Method
-[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
+Three usability experts conducted an evaluation using Jakob Nielsen’s Ten Usability Heuristics. Each expert independently identified issues and rated them based on frequency, impact, and persistence.
+
+The severity scale used:
+<li> 0 – Not a usability problem </li>
+<li> 1 – Cosmetic issue </li>
+<li> 2 – Minor issue </li>
+<li> 3 – Major issue </li>
+<li> 4 – Usability catastrophe </li>
+
+<br>
+After individual assessments, the experts discussed discrepancies and reached a consensus on severity ratings.
 
 
 #### Individual Evaluations

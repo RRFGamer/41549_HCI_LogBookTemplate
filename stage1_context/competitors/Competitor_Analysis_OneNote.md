@@ -1,10 +1,10 @@
-# Competitor Analysis: [System Name] 
+# Competitor Analysis: Microsoft OneNote
 ## General Information 
-- **Name of System:** [System Name] 
-- **Company/Developer:** [Company Name] 
-- **Website/Product Page:** [URL] 
-- **Version/Release Date:** [If applicable] 
-- **Platform(s) Supported:** [e.g., Web, Mobile (iOS/Android), Desktop] 
+- **Name of System:** Microsoft OneNote
+- **Company/Developer:** Microsoft
+- **Website/Product Page:** https://www.onenote.com
+- **Version/Release Date:**  
+- **Platform(s) Supported:** Web, desktop, mobile (android and iOS) 
 - **Target Audience:** [Who is this designed for?] 
 
 --- 
