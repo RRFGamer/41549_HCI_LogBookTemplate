@@ -130,6 +130,10 @@ Task: Creating and Organizing a Note
 | Date       | Participant / Role                                 | Key Insights                                                                                                                                                           | Link to Notes                              |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | 2025-02-27 | Rafael Claro/University Student with part time job | Two categories of notes. Paper notepad used in part time. Sticky notes software used to aid University project. Would like deeper integration of sticky note software. | [📄 Notes](interviews/interview-Rafael.md) |
+| 2025-02-12 | anonymous 1/University Student/ IT researcher | Likes to use notion to take notes of articles for his research/thesis. Likes to use notion because is a very "complete" and customizable app. Thinks that first-time users can be overwhelmed because of all the options that notion can provide. | [📄 Notes](interviews/interview-1.md) |
+| 2025-02-12 | anonymous 2/University Student/ IT researcher | Likes note-taking apps that it is as simple as possible. Would like some customization in the default apps. Tried to use notion, but stopped because was very overwhelming to use.  | [📄 Notes](interviews/interview-2.md) |
+| 2025-02-12 | anonymous 3/University Student| Likes to use the default apps because of the simplicity and facility to use. Would like some, customization in the default apps. | [📄 Notes](interviews/interview-3.md) |
+
 
 ### Common Themes & Patterns 
 
