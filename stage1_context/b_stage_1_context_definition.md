@@ -57,24 +57,23 @@ After individual assessments, the experts discussed discrepancies and reached a 
 
 | **Issue**                                                                                      | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
 | ----------------------                                                                         | ------------ | -------- | -------- | ------------------------------------------- |
-| Deleting a note requires opening the "More" menu                                               | 2            | 3        |          |                                             |
-| Cloud Syncing Feedback                                                                         | 1            | 1        |          |                                             |
-| Trashing notes pops a small notification to undo action                                        |              | 2        |          |                                             |
-| The Archive is not immediatly clear                                                            | 2            | 1        |          |                                             |
-| The reminder feature could be more visually distinct                                           | 1            | 1        |          |                                             |
-| Notes can't be dragged to labels, Archive and Trash                                            |              | 3        |          |                                             |
-| To "cancel" a new note, the body and title need to be cleared                                  |              | 3        |          |                                             |
-| Some icons are not labeled, which may confuse new users                                        | 2            | 1        |          |                                             |
-| Keyboard navigation uses vim keybidings, not arrow keys                                        |              | 3        |          |                                             |
-| Keyboard navigation uses vim keybidings, not arrow keys                                        |              | 3        |          |                                             |
-| There is no confirmation dialog when deleting notes                                            | 3            | 0        |          |                                             |
-| The recovery period of notes in the trash is only 7 days                                       | 2            | 0        |          |                                             |
-| The search functions lacks filters for labels, date, checklists, etc...                        | 2            | 3        |          |                                             |
-| The app does not have automation features                                                      | 2            | 0        |          |                                             |
-| Labels can be added to notes as visible text, which looks different than labels added normally |              | 2        |          |                                             |
-| Keyboard controls do not allow bidimensional navigation                                        |              | 2        |          |                                             |
-| "Open-sources licenses" button is visible.                                                     |              | 1        |          |                                             |
-| Using the search prompt in the Help page does not update the results in real time.             |              | 2        |          |                                             |
+| Deleting a note requires opening the "More" menu                                               | 2            | 3        | 2        |                                             |
+| Cloud Syncing Feedback                                                                         | 1            | 1        | 1        |                                             |
+| Trashing notes pops a small notification to undo action                                        |              | 2        | 2        |                                             |
+| The Archive is not immediatly clear                                                            | 2            | 1        | 1        |                                             |
+| The reminder feature could be more visually distinct                                           | 1            | 1        | 1        |                                             |
+| Notes can't be dragged to labels, Archive and Trash                                            |              | 3        | 2        |                                             |
+| To "cancel" a new note, the body and title need to be cleared                                  |              | 3        | 3        |                                             |
+| Some icons are not labeled, which may confuse new users                                        | 2            | 1        | 2        |                                             |
+| Keyboard navigation uses vim keybidings, not arrow keys                                        |              | 3        | 2        |                                             |
+| There is no confirmation dialog when deleting notes                                            | 3            | 0        | 3        |                                             |
+| The recovery period of notes in the trash is only 7 days                                       | 2            | 0        | 1        |                                             |
+| The search functions lacks filters for labels, date, checklists, etc...                        | 2            | 3        | 3        |                                             |
+| The app does not have automation features                                                      | 2            | 0        | 2        |                                             |
+| Labels can be added to notes as visible text, which looks different than labels added normally |              | 2        | 2        |                                             |
+| Keyboard controls do not allow bidimensional navigation                                        |              | 2        | 1        |                                             |
+| "Open-sources licenses" button is visible.                                                     |              | 1        | 1        |                                             |
+| Using the search prompt in the Help page does not update the results in real time.             |              | 2        | 1        |                                             |
 
 
 ---
