@@ -35,12 +35,10 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Can users easily cancel an action? 
 >	- Is Undo and Redo supported?
 
-| **Issue**                                | **Severity** | Recommendation                      |
-| ---------------------------------------- | ------------ | ----------------------------------- |
-| Ao salvar a nota sem intenção,           |  1           | Adicionar uma opção para retroceder |
-| não é possível voltar atrás              |              |                                     |
-| Ao apagar uma nota a mensagem é pequena, |  1           | Aumentar o tamanho da fonte         |
-| dificultando a leitura                   |              |                                     |
+| **Issue**                                                       | **Severity** | Recommendation                      |
+| --------------------------------------------------------------- | ------------ | ----------------------------------- |
+| Ao salvar a nota sem intenção, não é possível voltar atrás      |  1           | Adicionar uma opção para retroceder |
+| Ao apagar uma nota a mensagem é pequena, dificultando a leitura |  1           | Aumentar o tamanho da fonte         |
 
 # 4 Consistency and Standards
 >	Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions. 
@@ -55,10 +53,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design prevent slips by using helpful constraints? 
 >	- Does the design warn users before they perform risky actions?
 
-| **Issue**                         | **Severity** | Recommendation                 |
-| --------------------------------- | ------------ | ------------------------------ |
-| Ao apagar várias notas, não é     |  2           |  Surgir uma mensagem de aviso  |
-| exibido nenhuma mensagem de aviso |              |  para alterações de maior gama |
+| **Issue**                                                       | **Severity** | Recommendation                                              |
+| --------------------------------------------------------------- | ------------ | ----------------------------------------------------------- |
+| Ao apagar várias notas, não é exibido nenhuma mensagem de aviso |  2           |  Surgir uma mensagem de aviso para alterações de maior gama |
 
 # 6 Recognition Rather than Recall
 >	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
@@ -73,16 +70,12 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design provide accelerators like keyboard shortcuts and touch gestures? 
 >	- Is content and funtionality personalized or customized for individual users?
 
-| **Issue**                         | **Severity** | Recommendation                     |
-| --------------------------------- | ------------ | ---------------------------------- |
-| Apenas é permitido texto simples, |  1           | Acrescentar o mínimo de opções     |
-| sem opções de formatação          |              | de formatação                      |
-| Apenas imagens podem ser anexadas |  1           | Permitir a anexação de outros      |
-| nas notas                         |              | formatos de fiqueiro               |
-| Carece de opções para organizar   |  2           | Adicionar outras opções como       |
-| as notas tiradas                  |              | organizar em cadernos              |
-| Web Clipper (addon) do Google     |  2           | Permitir tirar print screen ou     |
-| Keep apenas armazena a URL        |              | guardar pequenas parcelas de texto |
+| **Issue**                                                  | **Severity** | Recommendation                                                    |
+| ---------------------------------------------------------- | ------------ | ----------------------------------------------------------------- |
+| Apenas é permitido texto simples, sem opções de formatação |  1           | Acrescentar o mínimo de opções de formatação                      |
+| Apenas imagens podem ser anexadas nas notas                |  1           | Permitir a anexação de outros formatos de fiqueiro                |
+| Carece de opções para organizar as notas tiradas           |  2           | Adicionar outras opções como organizar em cadernos                |
+| Web Clipper (addon) do Google Keep apenas armazena a URL   |  2           | Permitir tirar print screen ou guardar pequenas parcelas de texto |
 
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
