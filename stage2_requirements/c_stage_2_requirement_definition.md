@@ -9,19 +9,19 @@
 
 # Personas
 
-## Persona: [Persona Name] 
+## Persona: Afonso Lopes  
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona1_template.md) |
+| **Photo**        | <img src="personas/afonso_lopes.jpg" alt="afonso_lopes" width="200"/>  |
+| **Name**         | Afonso Lopes                                |
+| **Age**          | 20                                 |
+| **Occupation**   | University Student (Management)                           |
+| **Location**     | São Paulo, Brazil                               |
+| **Goals**        | Stay organized with class notes, avoid information overload, and customize notes for better structure.|
+| **Pain Points**  | Notion felt too complex and overwhelming. Default note apps lack customization, leading to a cluttered and disorganized workspace.|
+| **Motivation**   | "I need something simple but structured just enough to keep my notes organized without the hassle."|
+| **Full Profile** | [📄 Read More](personas/afonso_lopes.md) |
 
 ---
 ## Persona: [Persona Name] 
@@ -47,15 +47,13 @@
 # Scenarios
 
 
-## Scenario 1: Maria goes on a Museum Tour
+## Scenario 1: Afonso Tries to Stay Organized Before Exams
 
-[Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
+Afonso has a midterm exam coming up, and he realizes that his notes are scattered across different apps, screenshots, and loose text files. He initially tried **Notion**, but it was too overwhelming with all different features and customization options. He switched to his pc default notes app, but now he has a mess of untitled notes with no clear organization.
 
-[As she entered the museum, Maria received a notification on her phone, reminding her to launch the app. She opened it and was greeted with a personalized welcome screen. The system, aware of her general interests in **digital media and abstract art**, suggested a self-guided tour tailored to her preferences.  ]
+Desperate for a solution, Afonso downloads **[ALGUMA COISA]**, which promises **simplicity with just enough customization**. He quickly **creates folders** for each subject, **assigns colors** to differentiate topics, and **pins important notes** at the top.
 
-[Curious, Maria followed the suggested path. As she approached the first painting, the guide vibrated slightly—a prompt that additional content was available. Holding up the guide, she saw an **overlay** appear on the screen, revealing a time-lapse animation of the artist creating the piece. A small **audio clip** played, explaining the artist’s thought process and influences. Maria found this fascinating; it was as if the artwork was coming to life in front of her.  ]
-
-[As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
+As he reviews his notes, he realizes some sections are more important than others. Unlike his default notes app, **[ALGUMA COISA]** allows him to **adjust text size**, **bold key concepts**, and **highlight important formulas in different colors**. This helps him scan through his notes faster and focus on crucial points. With minimal setup, his study materials are finally structured, allowing him to focus on revision rather than searching for scattered information.
 
 ---
 
