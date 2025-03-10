@@ -157,14 +157,14 @@ Task: Creating and Organizing a Note
 ### Common Themes & Patterns 
 
 - **Recurring Problems:** 
-	- Issue 1
-	- Issue 2
+	- Note taking apps are either too simple, or too overwhelming
+	- In simple apps, notes become disorganized
 - **Frequently Used Tools:** 
-	- Tool 1
-	- Tool 2
+	- Default app shipped with device/OS
 - **Desired Features / Solutions:** 
-	- Feature 1
-	- Feature 2
+	- Small amount of customization
+	- Features that help note organization
+	- Must always be as simple as possible
 - --- 
 
 
