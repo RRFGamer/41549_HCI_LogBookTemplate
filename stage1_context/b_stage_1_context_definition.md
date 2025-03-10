@@ -57,6 +57,7 @@ After individual assessments, the experts discussed discrepancies and reached a 
 
 | **Issue**                                                                                      | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
 | ----------------------                                                                         | ------------ | -------- | -------- | ------------------------------------------- |
+| After accidently creating a note, there's not way to undo it                                   |              |          | 1        |                                             |
 | Deleting a note requires opening the "More" menu                                               | 2            | 3        | 2        |                                             |
 | Cloud Syncing Feedback                                                                         | 1            | 1        | 1        |                                             |
 | Trashing notes pops a small notification to undo action                                        |              | 2        | 2        |                                             |
@@ -67,6 +68,10 @@ After individual assessments, the experts discussed discrepancies and reached a 
 | Some icons are not labeled, which may confuse new users                                        | 2            | 1        | 2        |                                             |
 | Keyboard navigation uses vim keybidings, not arrow keys                                        |              | 3        | 2        |                                             |
 | There is no confirmation dialog when deleting notes                                            | 3            | 0        | 3        |                                             |
+| No text formatting                                                                             |              |          | 1        |                                             |
+| Only images can be anexed                                                                      |              |          | 1        |                                             |
+| Few ways to organize notes                                                                     |              |          | 2        |                                             |
+| Web Clipper addon only stores URLs without thumbnails                                          |              |          | 2        |                                             |
 | The recovery period of notes in the trash is only 7 days                                       | 2            | 0        | 1        |                                             |
 | The search functions lacks filters for labels, date, checklists, etc...                        | 2            | 3        | 3        |                                             |
 | The app does not have automation features                                                      | 2            | 0        | 2        |                                             |
@@ -74,6 +79,7 @@ After individual assessments, the experts discussed discrepancies and reached a 
 | Keyboard controls do not allow bidimensional navigation                                        |              | 2        | 1        |                                             |
 | "Open-sources licenses" button is visible.                                                     |              | 1        | 1        |                                             |
 | Using the search prompt in the Help page does not update the results in real time.             |              | 2        | 1        |                                             |
+| Help button is not immediatly visible                                                          |              |          | 3        |                                             |
 
 
 ---
