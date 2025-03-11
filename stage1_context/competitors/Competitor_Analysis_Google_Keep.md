@@ -22,6 +22,6 @@
 
 ## Screenshots
 
-![Google Keep screenshot](Keep-Example.png)
+![Google Keep screenshot](Keep-Screenshot1.png)
 
 ## Online Reviews
