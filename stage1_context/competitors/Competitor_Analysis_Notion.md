@@ -1,26 +1,28 @@
 # Competitor Analysis: Notion
-## General Information 
-- **Name of System:** Notion 
-- **Company/Developer:** Notion Labs Inc 
-- **Website/Product Page:** [URL] 
-- **Version/Release Date:** https://www.notion.com 
-- **Platform(s) Supported:** Web, desktop, mobile (android and iOS)  
-- **Target Audience:** [Who is this designed for?] 
+## General Information
+- **Name of System:** Notion
+- **Company/Developer:** Notion Labs Inc
+- **Website/Product Page:** <https://www.notion.com>
+- **Version/Release Date:** 2024-12-05: 2.47
+- **Platform(s) Supported:** Web, desktop, mobile (Android and iOS)
+- **Target Audience:** Individuals and teams that want a heavy duty, full featured documentation platform.
 
 --- 
 ## Core Functionality 
 
-**Primary Purpose:** [Briefly describe what the system is designed to do] 
+**Primary Purpose:** Organization and collaboration of feature rich notes, that may include dynamic elements such as graphs.
 
-**Key Features:** - [Feature 1] - [Feature 2] - [Feature 3] 
+**Key Features:** - Collaboration - Big library of templates - Markdown support
 
-**Unique Selling Points (USPs):** - [What makes this system stand out?] 
+**Unique Selling Points (USPs):** - Allows the collaboration between teams - High amount of free and commercial templates - Built-in dynamic elements
 
-**Limitations/Weaknesses:** - [Any known shortcomings or pain points] 
+**Limitations/Weaknesses:** - Online-only - Overwhelming amount of features
 
 ---
 
 ## Screenshots
+
+![Notion screenshot 1](Notion-Screenshot1.png)
 
 
 ## Online Reviews
