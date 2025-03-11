@@ -15,7 +15,7 @@
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
 | Notion| A very flexible and customizable note-taking with project management features, templates, tags ...| [Competitor Analysis Notion](competitors/Competitor_Analysis_Notion.md)| 
-| Microsoft OneNote |A digital notebook with freeform note organization, handwriting support, section-based structuring and office type stylization.|[Competitor Analysis Microsoft OneNote](competitors/Competitor_Analysis_Notion.md)|
+| Microsoft OneNote |A digital notebook with freeform note organization, handwriting support, section-based structuring and office type stylization.|[Competitor Analysis Microsoft OneNote](competitors/Competitor_Analysis_Onenote.md)|
 | Google Keep| A simple note-taking app with color notes, reminders, checklist image annotation.| [Competitor Analysis Google Keep](competitors/Competitor_Analysis_Google_Keep.md)|
 
 
