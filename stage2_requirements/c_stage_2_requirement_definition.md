@@ -71,13 +71,13 @@ As he reviews his notes, he realizes some sections are more important than other
 
 ## Scenario 2: Filipa Balances Work, Studies, and Business
 
-Filipa juggles her business, part-time job, studies, and personal life, making it essential to keep everything well-organized. She uses her phone’s default Notes app for quick lists, Sticky Notes on her PC for work-related tasks, and even paper for urgent reminders. However, her notes often end up scattered across multiple places, making it hard to track what’s important.
+Filipa juggles her <i>business, part-time job, studies, and personal life</i>, making it essential to keep everything well-organized. She uses her phone’s default Notes app for quick lists, <i>Sticky Notes on her PC</i> for work-related tasks, and even paper for urgent reminders. However, her notes often end up <i>scattered</i> across multiple places, making it hard to track what’s important.
 
-One day, she forgets to check an important business order deadline, causing delays with a supplier. Frustrated, she realizes she needs a better system to keep her tasks visible and prioritized.
+One day, she <i>forgets to check an important business order deadline</i>, causing delays with a supplier. Frustrated, she realizes she needs a <i>better system</i> to keep her tasks visible and prioritized.
 
-She decides to try [ALGUMA COISA], an app that keeps notes visible while offering just enough customization. She quickly creates folders for her different roles (Business, Studies, Work, and Personal) and assigns colors to each. For urgent tasks, she sets reminders and pins them to always appear on her screen.
+She decides to try [ALGUMA COISA], an app that <i>keeps notes visible while offering just enough customization</i>. She quickly creates folders for her different roles (Business, Studies, Work, and Personal) and <i>assigns colors</i> to each. For urgent tasks, she <i>sets reminders and pins</i> them to always appear on her screen.
 
-Later, while grocery shopping, she opens her checklist in [ALGUMA COISA] and notices it automatically calculates the total price of items—saving her from manually adding them. At night, as she plans the next day, she feels more in control, knowing that everything she needs is in one place, visible, structured, and easy to update.
+At night, as she plans the next day, she feels more in control, knowing that everything she needs is in one place, <i>visible, structured, and easy to update</i>.
 
 ---
 
