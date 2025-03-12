@@ -1,9 +1,9 @@
 <img src="filipa_costa.jpeg" alt="filipa_costa" width="200"/>
 
-**Name:** Filipa Costa
-**Age:** 30
-**Occupation:** Entrepreneur, part-time employee and student
-**Location:** Madrid, Spain
+**Name:** Filipa Costa<br>
+**Age:** 30<br>
+**Occupation:** Entrepreneur, part-time employee and student<br>
+**Location:** Madrid, Spain<br>
 
 ## Background  
 Filipa Costa leads a busy and dynamic life, juggling multiple roles as an entrepreneur, a part-time employee in a retail store, and a student taking evening classes. She is also a mother, which adds another layer of complexity to her already packed schedule.
@@ -32,3 +32,6 @@ Throughout the day, she frequently switches between paper, mobile notes, and Sti
 <li>Complex apps like Notion feel overwhelming, with too many options she doesn’t need.</li>
 <li>She often forgets to check her notes, which leads to missed tasks and deadlines.</li>
 <li>No easy way to set priorities or reminders in most simple note-taking apps.</li>
+
+## Motivation
+"<li>I need something simple but efficient, where I can separate different types of notes and always have important ones visible</li>"
