@@ -1,4 +1,4 @@
-<img src="filipa_costa.jpeg" alt="afonso_lopes" width="200"/>
+<img src="filipa_costa.jpeg" alt="filipa_costa" width="200"/>
 
 **Name:** Filipa Costa
 **Age:** 30
@@ -10,7 +10,7 @@ Filipa Costa leads a busy and dynamic life, juggling multiple roles as an entrep
 
 With a background in fashion retail and business management, Filipa started her own small online business, selling handmade accessories. She manages everything from marketing to inventory, often working from her laptop or phone between shifts at her retail job. In the evenings, she attends business management classes to improve her skills and grow her company further.
 
-Filipa relies heavily on notes and to-do lists to stay on top of everything, but she often finds herself struggling to keep her notes organized across different areas of her life.
+Filipa relies heavily on notes and to-do lists to stay on top of everything, but she often finds herself struggling to keep them organized across different areas of her life.
 
 ## Daily Life  
 A typical day for Filipa is fast-paced and highly structured:
