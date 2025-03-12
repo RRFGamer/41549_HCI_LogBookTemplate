@@ -38,21 +38,6 @@
 | **Full Profile** | [📄 Read More](personas/filipa_costa.md) |
 
 ---
-## Persona: [Persona Name] 
-### Summary 
-| Attribute        | Details                                       |
-| ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](path/to/photo.jpg)            |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona2_template.md) |
-
----
 
 
 
