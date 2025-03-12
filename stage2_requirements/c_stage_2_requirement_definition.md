@@ -69,6 +69,16 @@ Desperate for a solution, Afonso downloads **[ALGUMA COISA]**, which promises **
 
 As he reviews his notes, he realizes some sections are more important than others. Unlike his default notes app, **[ALGUMA COISA]** allows him to **adjust text size**, **bold key concepts**, and **highlight important formulas in different colors**. This helps him scan through his notes faster and focus on crucial points. With minimal setup, his study materials are finally structured, allowing him to focus on revision rather than searching for scattered information.
 
+## Scenario 2: Filipa Balances Work, Studies, and Business
+
+Filipa juggles her business, part-time job, studies, and personal life, making it essential to keep everything well-organized. She uses her phone’s default Notes app for quick lists, Sticky Notes on her PC for work-related tasks, and even paper for urgent reminders. However, her notes often end up scattered across multiple places, making it hard to track what’s important.
+
+One day, she forgets to check an important business order deadline, causing delays with a supplier. Frustrated, she realizes she needs a better system to keep her tasks visible and prioritized.
+
+She decides to try [ALGUMA COISA], an app that keeps notes visible while offering just enough customization. She quickly creates folders for her different roles (Business, Studies, Work, and Personal) and assigns colors to each. For urgent tasks, she sets reminders and pins them to always appear on her screen.
+
+Later, while grocery shopping, she opens her checklist in [ALGUMA COISA] and notices it automatically calculates the total price of items—saving her from manually adding them. At night, as she plans the next day, she feels more in control, knowing that everything she needs is in one place, visible, structured, and easy to update.
+
 ---
 
 
