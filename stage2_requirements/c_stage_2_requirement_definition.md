@@ -34,7 +34,7 @@
 | **Location**     | Madrid, Spain                               |
 | **Goals**        | Stay organized across business, work, studies, and personal life with a **simple yet customizable note-taking solution**. |
 | **Pain Points**  | Default note apps feel too basic, while Notion and similar apps feel **too complex**. Notes often get **lost or forgotten** due to lack of visibility. |
-| **Motivation** | "I need something simple but efficient, where I can separate different types of notes and always have important ones visible." |
+| **Motivation** | "My life is already complicated—I need a tool that helps me stay on top of everything without feeling overwhelmed." |
 | **Full Profile** | [📄 Read More](personas/filipa_costa.md) |
 
 ---
