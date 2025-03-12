@@ -1,15 +1,15 @@
-<img src="afonso_lopes.jpg" alt="afonso_lopes" width="200"/>  
+<img src="lucas_lopes.jpg" alt="lucas_lopes" width="200"/>  
 
-**Name:** Afonso Lopes
-**Age:** 20 
+**Name:** Lucas Lopes
+**Age:** 21 
 **Occupation:** University Student (Management)
 **Location:** São Paulo, Brazil  
 
 ## Background  
-Afonso is in his final year of his Bachelor's degree, juggling multiple courses, assignments, and group projects. He initially tried **Notion** to organize his notes but found it overwhelming with too many features that distracted him rather than helped. Frustrated, he switched to his pc **default note-taking app**, which was simple but lacked customization options, making it difficult to structure his notes effectively. Over time, his notes became messy and unorganized, making it harder to find important information when he needed it. 
+Lucas is in his final year of his Bachelor's degree, juggling multiple courses, assignments, and group projects. He initially tried **Notion** to organize his notes but found it overwhelming with too many features that distracted him rather than helped. Frustrated, he switched to his pc **default note-taking app**, which was simple but lacked customization options, making it difficult to structure his notes effectively. Over time, his notes became messy and unorganized, making it harder to find important information when he needed it. 
 
 ## Daily Life  
-Afonso starts his day by checking his calendar for deadlines and reviewing notes from his morning classes. He takes quick notes during lectures but struggles to keep them structured due to the limitations of his current note-taking app. In the afternoon, he works on assignments and group projects, often needing to refer back to past notes. However, searching through an endless list of untitled notes is frustrating.
+Lucas starts his day by checking his calendar for deadlines and reviewing notes from his morning classes. He takes quick notes during lectures but struggles to keep them structured due to the limitations of his current note-taking app. In the afternoon, he works on assignments and group projects, often needing to refer back to past notes. However, searching through an endless list of untitled notes is frustrating.
 
 At night, he revises for exams but wishes he could **highlight key concepts**, **adjust text size**, or **categorize notes by color** to make studying easier. He often finds himself copying notes into another app or into paper just to format them properly, wasting a lot of his time. 
 

@@ -57,29 +57,29 @@ After individual assessments, the experts discussed discrepancies and reached a 
 
 | **Issue**                                                                                      | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
 | ----------------------                                                                         | ------------ | -------- | -------- | ------------------------------------------- |
-| After accidently creating a note, there's not way to undo it                                   |              | 0        | 1        |                                             |
+| After accidently creating a note, there's not way to undo it                                   |0             | 0        | 1        |                                             |
 | Deleting a note requires opening the "More" menu                                               | 2            | 3        | 2        |                                             |
 | Cloud Syncing Feedback                                                                         | 1            | 1        | 1        |                                             |
-| Trashing notes pops a small notification to undo action                                        |              | 2        | 2        |                                             |
+| Trashing notes pops a small notification to undo action                                        |1             | 2        | 2        |                                             |
 | The Archive is not immediatly clear                                                            | 2            | 1        | 1        |                                             |
 | The reminder feature could be more visually distinct                                           | 1            | 1        | 1        |                                             |
-| Notes can't be dragged to labels, Archive and Trash                                            |              | 3        | 2        |                                             |
-| To "cancel" a new note, the body and title need to be cleared                                  |              | 3        | 3        |                                             |
+| Notes can't be dragged to labels, Archive and Trash                                            |2             | 3        | 2        |                                             |
+| To "cancel" a new note, the body and title need to be cleared                                  |1             | 3        | 3        |                                             |
 | Some icons are not labeled, which may confuse new users                                        | 2            | 1        | 2        |                                             |
-| Keyboard navigation uses vim keybidings, not arrow keys                                        |              | 3        | 2        |                                             |
+| Keyboard navigation uses vim keybidings, not arrow keys                                        | 2            | 3        | 2        |                                             |
 | There is no confirmation dialog when deleting notes                                            | 3            | 0        | 3        |                                             |
-| No text formatting                                                                             |              | 2        | 1        |                                             |
-| Only images can be anexed                                                                      |              | 2        | 1        |                                             |
-| Few ways to organize notes                                                                     |              | 2        | 2        |                                             |
+| No text formatting                                                                             | 2            | 2        | 1        |                                             |
+| Only images can be anexed                                                                      | 2            | 2        | 1        |                                             |
+| Few ways to organize notes                                                                     | 2            | 2        | 2        |                                             |
 | Web Clipper addon only stores URLs without thumbnails                                          |              | ?        | 2        |                                             |
 | The recovery period of notes in the trash is only 7 days                                       | 2            | 0        | 1        |                                             |
 | The search functions lacks filters for labels, date, checklists, etc...                        | 2            | 3        | 3        |                                             |
 | The app does not have automation features                                                      | 2            | 0        | 2        |                                             |
-| Labels can be added to notes as visible text, which looks different than labels added normally |              | 2        | 2        |                                             |
-| Keyboard controls do not allow bidimensional navigation                                        |              | 2        | 1        |                                             |
-| "Open-sources licenses" button is visible.                                                     |              | 1        | 1        |                                             |
-| Using the search prompt in the Help page does not update the results in real time.             |              | 2        | 1        |                                             |
-| Help button is not immediatly visible                                                          |              | 1        | 3        |                                             |
+| Labels can be added to notes as visible text, which looks different than labels added normally | 1            | 2        | 2        |                                             |
+| Keyboard controls do not allow bidimensional navigation                                        | 2            | 2        | 1        |                                             |
+| "Open-sources licenses" button is visible.                                                     | 1            | 1        | 1        |                                             |
+| Using the search prompt in the Help page does not update the results in real time.             | 1            | 2        | 1        |                                             |
+| Help button is not immediatly visible                                                          | 1            | 1        | 3        |                                             |
 
 
 ---

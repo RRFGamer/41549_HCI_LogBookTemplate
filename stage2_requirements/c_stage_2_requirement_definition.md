@@ -9,19 +9,19 @@
 
 # Personas
 
-## Persona: Afonso Lopes  
+## Persona: Lucas Lopes  
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | <img src="personas/afonso_lopes.jpg" alt="afonso_lopes" width="200"/>  |
-| **Name**         | Afonso Lopes                                |
+| **Photo**        | <img src="personas/lucas_lopes.jpg" alt="lucas_lopes" width="200"/>  |
+| **Name**         | Lucas Lopes                                |
 | **Age**          | 20                                 |
 | **Occupation**   | University Student (Management)                           |
 | **Location**     | São Paulo, Brazil                               |
 | **Goals**        | Stay organized with class notes, avoid information overload, and customize notes for better structure.|
 | **Pain Points**  | Notion felt too complex and overwhelming. Default note apps lack customization, leading to a cluttered and disorganized workspace.|
 | **Motivation**   | "I need something simple but structured just enough to keep my notes organized without the hassle."|
-| **Full Profile** | [📄 Read More](personas/afonso_lopes.md) |
+| **Full Profile** | [📄 Read More](personas/lucas_lopes.md) |
 
 ## Persona: Filipa Costa  
 ### Summary 
@@ -61,11 +61,11 @@
 # Scenarios
 
 
-## Scenario 1: Afonso Tries to Stay Organized Before Exams
+## Scenario 1: Lucas Tries to Stay Organized Before Exams
 
-Afonso has a midterm exam coming up, and he realizes that his notes are scattered across different apps, screenshots, and loose text files. He initially tried **Notion**, but it was too overwhelming with all different features and customization options. He switched to his pc default notes app, but now he has a mess of untitled notes with no clear organization.
+Lucas has a midterm exam coming up, and he realizes that his notes are scattered across different apps, screenshots, and loose text files. He initially tried **Notion**, but it was too overwhelming with all different features and customization options. He switched to his pc default notes app, but now he has a mess of untitled notes with no clear organization.
 
-Desperate for a solution, Afonso downloads **[ALGUMA COISA]**, which promises **simplicity with just enough customization**. He quickly **creates folders** for each subject, **assigns colors** to differentiate topics, and **pins important notes** at the top.
+Desperate for a solution, Lucas downloads **[ALGUMA COISA]**, which promises **simplicity with just enough customization**. He quickly **creates folders** for each subject, **assigns colors** to differentiate topics, and **pins important notes** at the top.
 
 As he reviews his notes, he realizes some sections are more important than others. Unlike his default notes app, **[ALGUMA COISA]** allows him to **adjust text size**, **bold key concepts**, and **highlight important formulas in different colors**. This helps him scan through his notes faster and focus on crucial points. With minimal setup, his study materials are finally structured, allowing him to focus on revision rather than searching for scattered information.
 
@@ -89,9 +89,18 @@ At night, as she plans the next day, she feels more in control, knowing that eve
 
 
 ## C.1. Functional requirements
+<li>Notes are arranged in specific categories</li>
+<li>Categories must support consistent coloring</li>
+<li>Support for special text content such as formulas</li>
+<li>Text color and size must be formattable</li>
+<li>Support a lightweight markup language</li>
+<li>Notes can be drag-and-dropped between categories, and the trash can</li>
 
 
 ## C.2. Non-functional requirements
+<li>The app must be responsive to all actions</li>
+<li>Frequently used features must be available quickly</li>
+<li>Minimal interface</li>
 
 
 ---
