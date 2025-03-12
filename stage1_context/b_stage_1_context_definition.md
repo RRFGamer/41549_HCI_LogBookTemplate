@@ -173,6 +173,8 @@ Most interviews were done to fellow University coleagues.
 	- Small amount of customization
 	- Features that help note organization
 	- Must always be as simple as possible
+	- Alarms and reminders for important tasks.
+	- Ability to adjust complexity (toggle between basic and advanced features).
 - --- 
 
 
