@@ -34,4 +34,4 @@ Throughout the day, she frequently switches between paper, mobile notes, and Sti
 <li>No easy way to set priorities or reminders in most simple note-taking apps.</li>
 
 ## Motivation
-"<li>I need something simple but efficient, where I can separate different types of notes and always have important ones visible</li>"
+"<i>I need something simple but efficient, where I can separate different types of notes and always have important ones visible</i>"
