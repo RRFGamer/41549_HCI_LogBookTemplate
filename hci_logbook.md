@@ -10,7 +10,7 @@ Work carried out by:
 **Team:**
 - Student 1: João Su Nª112790 
 - Student 2; Rúben Franco Nª114827
-- Student 3: [Name and Number]
+- Student 3: André Cruz Nª110554
 
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
