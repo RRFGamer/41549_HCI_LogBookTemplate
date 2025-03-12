@@ -6,7 +6,7 @@ Work carried out by:
 -->
 # *HCI Project Logbook*
 
-**Title of the project**: [Title goes here]
+**Title of the project**: Note taking app
 **Team:**
 - Student 1: João Su Nª112790 
 - Student 2; Rúben Franco Nª114827
