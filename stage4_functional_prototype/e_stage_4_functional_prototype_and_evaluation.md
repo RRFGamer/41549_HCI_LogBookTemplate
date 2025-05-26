@@ -28,7 +28,7 @@ The users were given the following tasks:
    the note in a new category, named "generic notes".
 2. Find the previously created note ("An amazing note"), knowing that it is part
    of the ("generic notes") category.
-3 Open a note from the ("generic notes") category and add the text ("new
+3. Open a note from the ("generic notes") category and add the text ("new
    addition") with the blue highlight.
 4. Delete the ("generic notes") category, and restore the note titled ("An
    amazing note") and pin that note.
