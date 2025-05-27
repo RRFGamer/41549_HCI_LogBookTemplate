@@ -33,6 +33,13 @@ The users were given the following tasks:
    amazing note") and pin that note.
 
 
+### User Evaluations
+
+| User          | Occupation | Notes                                  |
+| ------------- | ---------- | -------------------------------------- |
+| Pedro Dias    | Professor  | [Notes 🗒️ ](user_evaluations/user1.md) |
+| Bruno Pereira | Student    | [Notes 🗒️ ](user_evaluations/user2.md) |
+
 ---
 [Back to main Logbook Page](../hci_logbook.md)
 

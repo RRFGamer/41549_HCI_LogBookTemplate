@@ -31,7 +31,7 @@
   - Frequently used categories could have dedicated button in the interface.
 
 ---
-[Back to main low fidelity prototype page](../e_stage_4_functional_prototype_and_evaluation.md)
+[Back to main low fidelity prototype page](../d_stage_3_low-fidelity_prototype_and_evaluation.md)
 
 ---
 
