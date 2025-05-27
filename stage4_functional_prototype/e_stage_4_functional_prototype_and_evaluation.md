@@ -8,7 +8,7 @@
 
 # E.X. User Evaluation
 
-## Difficulty Gradind
+## Difficulty Grading
 
 The user graded the difficulty and the observer graded the perceived difficulty
 using the following scale:
@@ -44,6 +44,16 @@ used for grading:
 3. Neither agree nor disagree
 4. Agree
 5. Strong Agree
+
+### User Evaluations
+
+| User                  | Occupation | SUS Score | Notes                                  |
+| --------------------- | ---------- | --------- | -------------------------------------- |
+| Bruno Pereira         | Student    |       100 | [Notes 🗒️ ](user_evaluations/user1.md) |
+| Pedro Sugiyama        | Student    |        95 | [Notes 🗒️ ](user_evaluations/user2.md) |
+| Tomás Cerca Rodrigues | Student    |      97.5 | [Notes 🗒️ ](user_evaluations/user3.md) |
+|                       | Student    |        95 | [Notes 🗒️ ](user_evaluations/user4.md) |
+|                       | Student    |      97.5 | [Notes 🗒️ ](user_evaluations/user5.md) |
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)

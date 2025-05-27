@@ -57,6 +57,8 @@ User feels that text size option affects all text.
 | I felt very confident using the system.                                                    | 4      |
 | I needed to learn a lot of things before I could get going with this system.               | 1      |
 
+**SUS Score**: 95
+
 ---
 [Back to main functional prototype page](../e_stage_4_functional_prototype_and_evaluation.md)
 

@@ -37,6 +37,8 @@
 | I felt very confident using the system.                                                    | 5      |
 | I needed to learn a lot of things before I could get going with this system.               | 1      |
 
+**SUS Score**: 97.5
+
 ---
 [Back to main functional prototype page](../e_stage_4_functional_prototype_and_evaluation.md)
 
