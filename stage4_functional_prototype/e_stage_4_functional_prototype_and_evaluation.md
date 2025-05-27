@@ -36,13 +36,14 @@ The users were given the following tasks:
 ## Post Task Evaluation
 
 After completing **all** tasks, users were presented with a 10 question
-questionaire (SUS). The following scale was used for grading:
+questionaire based on SUS (System Usability Scale). The following scale was
+used for grading:
 
-1. Totally Agree
-2. Agree
+1. Strong disagree
+2. Disagree
 3. Neither agree nor disagree
-4. Disagree
-5. Totally disagree
+4. Agree
+5. Strong Agree
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)
