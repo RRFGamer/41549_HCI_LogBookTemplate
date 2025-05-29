@@ -37,6 +37,21 @@
 | I felt very confident using the system.                                                    | 5      |
 | I needed to learn a lot of things before I could get going with this system.               | 1      |
 
+## Criticisms
+
+1 - The need to go to "Home" to pin a note is impractical.
+
+  Suggestion:
+
+Add the attach button to Notes/Categories
+
+2 - The design of the categories could be more attractive.
+  Suggestion:
+
+The label containing the text "Category" could:
+  - Fill the left/right side
+  - Identical to the title of the category below.
+
 **SUS Score**: 97.5
 
 ---
