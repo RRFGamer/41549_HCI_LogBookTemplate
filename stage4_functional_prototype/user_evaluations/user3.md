@@ -9,7 +9,8 @@ User explored and used the system before doing the tasks.
 
 ## Task 1
 
-User clicked the category after it was created in the save prompt, even when it was selected.
+User clicked the category after it was created in the save prompt, even when it
+was selected.
 
 - Time: 1:15
 - User graded difficulty: 5
@@ -42,8 +43,7 @@ User checked the pinned notes before pinning the note.
 
 ## Observations
 
-User whishes
-User feels a lack of features.
+User thinks there are not enough features.
 
 ## Post Task Questionaire
 

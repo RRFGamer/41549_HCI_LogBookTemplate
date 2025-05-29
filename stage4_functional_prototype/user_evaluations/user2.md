@@ -32,7 +32,8 @@ Nothind of note.
 ## Task 4.
 
 User deleted the only note in the category instead of the category.
-User thought that deleting all the notes in a category does not delete the category itself.
+User thought that deleting all the notes in a category does not delete the
+category itself.
 
 - Time: 0:45
 - User graded diffculty: 5
@@ -40,7 +41,7 @@ User thought that deleting all the notes in a category does not delete the categ
 
 ## Observations
 
-User feels that text size option affects all text.
+User thought that text size option affects all text.
 
 ## Post Task Questionaire
 
