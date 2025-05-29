@@ -46,6 +46,7 @@
 Add the attach button to Notes/Categories
 
 2 - The design of the categories could be more attractive.
+
   Suggestion:
 
 The label containing the text "Category" could:
